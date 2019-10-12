@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GatJet</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_text_1">Show user options.</string>
+    <string name="home_text_2">Show settings.</string>
+    <string name="admob_application_id">ca-app-pub-9815592515457632~4303053421</string>
+    <string name="ad_interstitials_one">ca-app-pub-9815592515457632/1678859701</string>
+    <string name="test_ad_interstitials">ca-app-pub-3940256099942544/1033173712</string>
+</resources>
